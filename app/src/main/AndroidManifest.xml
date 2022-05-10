@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.my.iplumber">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Iplumber">
+        <activity
+            android:name=".act.PaymentSuccessAct"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".act.RateUserAct"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".act.BookingHistoryAct"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".act.ChangePasswordAct"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".act.UpdateProfileAct"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".act.SettingAct"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".act.NotificationAct"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".act.PaymentScreenAct"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".act.PlumDetailsUserAct"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".act.HomePlumberAct"
+            android:exported="false"
+            android:label="@string/title_activity_home_plumber"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".act.SignUpPlumberAct"
+            android:exported="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".act.HomeUserAct"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".act.ForgotAct"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".act.SignUpUserAct"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".act.LoginAct"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".act.SelectPlumberLogin"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

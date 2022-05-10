@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Iplumber</string>
+    <string name="select_one">Select One-</string>
+    <string name="textone">Lorem Ipsum is simply dummy text of  dummy text of typesetting industry.</string>
+    <string name="i_am_a_plumber">I am a Plumber</string>
+    <string name="need_a_plumber"> I need a Plumbe</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="create_an_accoun"><u>Create an Account</u></string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="email_address">Email Address</string>
+    <string name="set_password">Set Password</string>
+    <string name="select_language">Select language</string>
+    <string name="agree_to">Agree to <font color="#A78746">Terms &amp; Conditions,Eula Agreemen </font>and <font color="#A78746">Privacy Policy </font></string>
+    <string name="submit">Submit</string>
+    <string name="company_name">Company Name</string>
+    <string name="company_photo">Company Photo</string>
+    <string name="license_number">License Number</string>
+    <string name="address">Address</string>
+    <string name="title_activity_home_plumber">HomePlumberAct</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">subscription</string>
+    <string name="title_notifications">profile</string>
+    <string name="master_plumber">Master Plumber</string>
+    <string name="book">BOOK</string>
+    <string name="change_password"><u>CHANGE PASSWORD?</u></string>
+    <string name="name">Name</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="logout">LOGOUT</string>
+    <string name="setting"><u>Customer setting </u></string>
+    <string name="plumber_setting"><u>Plumber setting</u></string>
+    <string name="update_profile">Update Profile</string>
+    <string name="booking_history">Booking History</string>
+    <string name="payment">Payment</string>
+    <string name="signup">SIGNUP</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="payment_successfull">Payment Successfull</string>
+    <string name="need_help"><u>Need Help</u></string>
+    <string name="cancel_booking"><u>Cancel Booking</u></string>
+    <string name="dowload_license"><u>Dowload License</u></string>
+    <string name="dowload_Image"><u>Dowload Image</u></string>
+    <string name="dowload_Comapny_details"><u>All Dowload Company Details</u></string>
+
+</resources>

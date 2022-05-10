@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Iplumber/app/src/main/res/drawable-v24/border_btn.xml" value="0.113" />
+        <entry key="..\:/Iplumber/app/src/main/res/drawable/border_green.xml" value="0.13" />
+        <entry key="..\:/Iplumber/app/src/main/res/drawable/border_mix_btn.xml" value="0.13" />
+        <entry key="..\:/Iplumber/app/src/main/res/drawable/border_mix_btn_one.xml" value="0.13" />
+        <entry key="..\:/Iplumber/app/src/main/res/drawable/border_mix_btn_three.xml" value="0.13" />
+        <entry key="..\:/Iplumber/app/src/main/res/drawable/border_mix_btn_two.xml" value="0.13" />
+        <entry key="..\:/Iplumber/app/src/main/res/drawable/border_subscription.xml" value="0.13" />
+        <entry key="..\:/Iplumber/app/src/main/res/drawable/border_subscription_one.xml" value="0.13" />
+        <entry key="..\:/Iplumber/app/src/main/res/drawable/border_subscription_three.xml" value="0.13" />
+        <entry key="..\:/Iplumber/app/src/main/res/drawable/border_subscription_two.xml" value="0.13" />
+        <entry key="..\:/Iplumber/app/src/main/res/drawable/border_tool.xml" value="0.113" />
+        <entry key="..\:/Iplumber/app/src/main/res/drawable/border_tool_new.xml" value="0.13" />
+        <entry key="..\:/Iplumber/app/src/main/res/drawable/bottom_nav_icon_color_selector.xml" value="0.13" />
+        <entry key="..\:/Iplumber/app/src/main/res/drawable/progress_seek_clima.xml" value="0.113" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_booking_history.xml" value="0.12" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_change_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_forgot.xml" value="0.1" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_home_plumber.xml" value="0.18" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_home_user.xml" value="0.1" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_notification.xml" value="0.1" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_payment_screen.xml" value="0.12" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_payment_success.xml" value="0.20416666666666666" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_plum_details_user.xml" value="0.18" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_plumber_sign_up.xml" value="0.22" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_plumber_user_sign_up.xml" value="0.18" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_rate_user.xml" value="0.18" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_select_plumber_login.xml" value="0.1" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_setting.xml" value="0.1" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_update_profile.xml" value="0.18" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/activity_video_calling.xml" value="0.20416666666666666" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/fragment_dashboard.xml" value="0.13" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/fragment_home.xml" value="0.12" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/fragment_home_plumber.xml" value="0.16" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/fragment_home_profile.xml" value="0.22" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/fragment_home_user.xml" value="0.1" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/fragment_notifications.xml" value="0.12" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/item_booking_history.xml" value="0.1" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/item_notification.xml" value="0.1" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/item_payment_card.xml" value="0.18" />
+        <entry key="..\:/Iplumber/app/src/main/res/layout/item_user_home.xml" value="0.15" />
+        <entry key="..\:/Iplumber/app/src/main/res/menu/bottom_nav_menu.xml" value="0.16666666666666666" />
+        <entry key="..\:/Iplumber/app/src/main/res/menu/myfile.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
